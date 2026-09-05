@@ -1,0 +1,5 @@
+# Tanki Nurasyl
+
+A browser-based tank game prototype with arcade gameplay and interactive controls.
+
+This experiment focuses on readable game feedback, responsive controls, and a compact action loop in the browser.
